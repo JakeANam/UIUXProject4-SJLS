@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e4ecabaf.css",
+    "main.js": "/static/js/main.531f6f99.js",
+    "static/js/453.0cc0ac16.chunk.js": "/static/js/453.0cc0ac16.chunk.js",
+    "static/media/classroom2.jpg": "/static/media/classroom2.52d957261217c0ec09bd.jpg",
+    "static/media/classroom1.jpg": "/static/media/classroom1.344a95d7794a7f0dddf7.jpg",
+    "static/media/imgSlide3.jpg": "/static/media/imgSlide3.e17dce5bd79fe0218872.jpg",
+    "static/media/imgSlide1.jpg": "/static/media/imgSlide1.ed79a1da669b477417fb.jpg",
+    "static/media/imgSlide2.jpg": "/static/media/imgSlide2.992b1ad3d1d02cb9ca4d.jpg",
+    "static/media/studyroom.jpg": "/static/media/studyroom.ccf4ddea62e54acae23f.jpg",
+    "static/media/lobby.jpg": "/static/media/lobby.1c09735190fba1486095.jpg",
+    "static/media/classroom3.jpg": "/static/media/classroom3.381bcfeb4e669b9c1305.jpg",
+    "static/media/grouproom.jpg": "/static/media/grouproom.8faa323cde7bc72865ea.jpg",
+    "static/media/council.jpg": "/static/media/council.0f9fe242989265ee5fac.jpg",
+    "static/media/classroom4.jpg": "/static/media/classroom4.38c73d5949acc97564f4.jpg",
+    "static/media/instagram.png": "/static/media/instagram.f05a34d7e3a8d2cc1b09.png",
+    "index.html": "/index.html",
+    "main.e4ecabaf.css.map": "/static/css/main.e4ecabaf.css.map",
+    "main.531f6f99.js.map": "/static/js/main.531f6f99.js.map",
+    "453.0cc0ac16.chunk.js.map": "/static/js/453.0cc0ac16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4ecabaf.css",
+    "static/js/main.531f6f99.js"
+  ]
+}
