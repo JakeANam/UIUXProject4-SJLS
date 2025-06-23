@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/UIUXProject4-SJLS/static/css/main.5384ead6.css",
-    "main.js": "/UIUXProject4-SJLS/static/js/main.62137744.js",
+    "main.js": "/UIUXProject4-SJLS/static/js/main.ef41532b.js",
     "static/js/453.0cc0ac16.chunk.js": "/UIUXProject4-SJLS/static/js/453.0cc0ac16.chunk.js",
     "static/media/classroom2.jpg": "/UIUXProject4-SJLS/static/media/classroom2.52d957261217c0ec09bd.jpg",
     "static/media/classroom1.jpg": "/UIUXProject4-SJLS/static/media/classroom1.344a95d7794a7f0dddf7.jpg",
@@ -17,11 +17,11 @@
     "static/media/instagram.png": "/UIUXProject4-SJLS/static/media/instagram.f05a34d7e3a8d2cc1b09.png",
     "index.html": "/UIUXProject4-SJLS/index.html",
     "main.5384ead6.css.map": "/UIUXProject4-SJLS/static/css/main.5384ead6.css.map",
-    "main.62137744.js.map": "/UIUXProject4-SJLS/static/js/main.62137744.js.map",
+    "main.ef41532b.js.map": "/UIUXProject4-SJLS/static/js/main.ef41532b.js.map",
     "453.0cc0ac16.chunk.js.map": "/UIUXProject4-SJLS/static/js/453.0cc0ac16.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5384ead6.css",
-    "static/js/main.62137744.js"
+    "static/js/main.ef41532b.js"
   ]
 }
